@@ -1,0 +1,354 @@
+APRENDA MAIS: Quer aprender mais sobre a Guerra Fria? Dá uma
+olhada aqui nesse vídeo de 9 minutos e com certeza você vai entender
+mais sobre essa treta toda.
+
+Canal Descomplica: https://youtu.be/cAwsLaO4HGQ?t=49
+
+---
+
+APRENDA MAIS: A História da Internet tem muitos outros
+acontecimentos interessantes. Quer ver mais sobre isso? Então veja
+esse vídeo de 15 minutos que conta tudo com riqueza de detalhes, mas
+sem se tornar chato:
+
+Canal TecMundo: https://youtu.be/pKxWPo73pX0?t=27
+
+************************************************************************************************
+
+APRENDA MAIS: Quer descobrir detalhes de cada um dos cabos
+que estão representados acima? O site Submarine Cable Map cria um
+mapa interativo e você pode clicar em cada um deles.
+
+Acesse agora: https://www.submarinecablemap.com
+
+---
+
+APRENDA MAIS: Quer aprender mais sobre os cabos submarinos?
+Assista esse vídeo de 9 minutos que explica mais detalhes.
+
+Dicionário de Informática: https://youtu.be/q-rBtDub3Hc
+
+---
+
+APRENDA MAIS: Entenda melhor qual é a necessidade de migrar
+do IPv4 para o IPv6. E o que acontecerá no futuro, quando a versão
+antiga parar de funcionar.
+
+NICbr: https://youtu.be/_JbLr_C-HLk
+
+---
+
+APRENDA MAIS: Saiba mais sobre o DNS assistindo esse vídeo
+bem simples e ilustrado.
+
+NICbr: https://youtu.be/ACGuo26MswI
+
+---
+
+APRENDA MAIS: Tente descobrir o seu IP e também tente
+descobrir o IP atual do site do Facebook usando o site a seguir:
+
+IP2Location: https://www.iplocation.net
+
+EXTRA: Depois que você descobrir o IP do Facebook, tente digitar o
+número dele no lugar do endereço do site no seu Google Chrome e
+aperte o enter. Surpresa!
+
+---
+
+VEJA POR DENTRO: Dá só uma olhada em como é um data
+center por dentro. E você aí achando que seu PC com no-break já
+dava conta do recado 😄
+
+Data Center Ascenty: https://youtu.be/qVlMg-H_fBI
+
+Data Center UOL: https://youtu.be/flxzjA4tM1E?t=74
+
+Data Center Locaweb: https://youtu.be/a2vfVAljv18
+
+************************************************************************************************
+
+APRENDA MAIS: Sempre que você quiser saber quais são as tags
+que estão sendo consideradas obsoletas pelo W3C, basta consultar a
+referência oficial da linguagem, disponível no site abaixo e acessar o item
+15: Obsolete Features.
+
+HTML Standard: https://html.spec.whatwg.org/multipage/
+
+---
+
+INSTALE O VS CODE: Não adianta ficar apenas lendo esse material
+ou assistindo os vídeos. A instalação das ferramentas que usaremos
+no curso é ESSENCIAL para o seu aprendizado. Instale e use todos os
+dias! Crie muito!
+
+Baixe o editor em https://code.visualstudio.com/#alt-downloads
+
+---
+
+DICA: Você quer uma referência com vários símbolos e seus
+códigos, pois acesse o W3Schools, na área de Misc Symbols.
+
+https://www.w3schools.com/charsets/ref_utf_symbols.asp
+
+---
+
+emojipedia.org
+
+************************************************************************************************
+
+ANTES CONTINUAR: Eu não sou profissional do Direito, então faço
+uma pausa aqui no material para te indicar um vídeo onde temos o
+Especialita em Direito Digital Alan Moreira Lopes falando sobre esse
+assunto com muito mais propriedade. A partir de 29min ele responde
+umas perguntas bem comuns.
+
+Canal Revolution: https://youtu.be/Bkym20GqOoQ?t=171
+
+---
+
+OLHA A TRETA: Um caso que ficou muito famoso na Internet foi
+com o canal Nostalgia. O Felipe Castanhari, dono do canal, vive
+recebendo avisos de direitos autorais por usar pedaços de vídeos de
+documentários, filmes, clipes e séries com direito autoral.
+
+Canal Nostalgia: https://youtu.be/SJacdAbjdZI
+
+---
+
+OUÇA O ESPECIALISTA: Aqui embaixo você vai encontrar um link
+para o vídeo do canal do Google para Webmasters onde o
+especialista John Mueller fala sobre esse assunto. O conteúdo está em
+inglês, mas você pode clicar no botão da engrenagem no canto inferior
+direito do vídeo e mandar traduzir automaticamente as legendas para
+o Português. Fica ótimo!
+
+Acesse: https://youtu.be/WsgrSxCmMbM
+
+************************************************************************************************
+
+FIQUE SEMPRE DE OLHO: Existe um documento oficial do
+Consórcio da World Wide Web (W3C) que é atualizado
+constantemente com as tags que estão ficando obsoletas e algumas
+substituição desejáveis que devemos fazer.
+
+Diferenças entre HTML4 e 5: https://www.w3.org/TR/html5-
+diff/#absent-attributes
+
+Elementos obsoletos na HTML5: https://dev.w3.org/html5/
+pf-summary/obsolete.html
+
+************************************************************************************************
+
+APRENDA MAIS: Veja com mais detalhes como
+funcionam os algoritmos fundamentais de busca
+assistindo esse vídeo do próprio Google, onde o engenheiro
+Matt Cutts explica o mecanismo básico da ferramenta mais
+valiosa do mundo. Habilite as legendas em PT-BR.
+
+Google: https://youtu.be/BNHR6IQJGZs
+
+---
+
+LISTA DE MEDIA TYPES: Se você quer saber o que escrever
+dentro do atributo type de uma âncora de hypertext, consulte a lista
+oficial da IANA.org disponível no link abaixo.
+https://www.iana.org/assignments/media-types/media-types.xhtml
+
+************************************************************************************************
+
+CUIDADO! Sites lentos diminuem a taxa de retenção dos
+usuários, que ficam menos tempo acessando e podem prejudicar a
+indexação da sua página em mecanismos de busca como o Google. Veja
+no vídeo a seguir, um especialista em SEO (otimização para mecanismos
+de busca) falando sobre lentidão de sites, principalmente via 3G e 4G do
+celular.
+
+Portal SEO: https://youtu.be/jWnMfvSdo1E
+
+---
+
+UM ÓTIMO CONVERSOR: Para gerar arquivos em vários formatos
+e usando codecs padronizados, recomendo usar o programa open
+source chamado Handbrake, disponível para várias plataformas.
+
+https://handbrake.fr/downloads.php
+
+************************************************************************************************
+
+APRENDA MAIS. A seguir, vou colocar alguns links para artigos
+onde você vai poder ver mais sobre a emoção das cores. Consuma
+esses conteúdos para entender melhor o poder das cores.
+
+➡ https://rockcontent.com/blog/psicologia-das-cores/
+➡ http://www.matildefilmes.com.br/psicologia-das-cores-guiaavancado-para-profissionais/
+➡ https://neilpatel.com/br/blog/psicologia-das-cores-comousar-cores-para-aumentar-sua-taxa-de-conversao/
+
+---
+
+Existem vários sites e serviços que vão te ajudar na escolha da paleta de cores do seu
+site. A que vai permitir mais opções, na minha opinião é o Adobe Color (disponível
+em https://color.adobe.com/pt/), que tem recursos gratuitos para te auxiliar na
+escolha das suas cores baseado nos esquemas de harmonia que vimos anteriormente.
+
+---
+
+Encontrei uma cor maravilhosa! Qual é o código dela?
+Instale a extensão colorzilla no chrome. Abra o Google Chrome e acesse a Chrome Web Store
+no endereço https://chrome.google.com/webstore/.
+
+************************************************************************************************
+
+APRENDA MAIS SOBRE FONTES: As classificações não param por
+aqui. Existem também sub-categorias para cada fonte serifada, como
+as old style, transitional, didone, slab, clarendon e glyphic, que
+apresentam características detalhadas para cada uma.
+
+---
+
+SEQUÊNCIAS SEGURAS: Existem as chamadas sequências seguras
+para especificações de famílias de fontes. Para ver quais são elas,
+abra o Google e faça uma rápida busca por CSS Web Safe Font
+Combinations.
+
+---
+
+MAIS INFORMAÇÃO: Para saber mais sobre as medidas suportas
+pelas CSS, acesse o site oficial da W3C em:
+
+https://www.w3.org/Style/Examples/007/units.pt_BR.html
+
+---
+
+Encontrei uma fonte maravilhosa! Como descobrir o nome?
+Instale a extensão fonts ninja no chrome. Abra o Google Chrome e acesse a Chrome Web Store
+no endereço https://chrome.google.com/webstore/.
+
+Abra um site qualquer, selecione o trecho de texto que quer identificar (recomendo
+selecionar poucas palavras) e clique sobre o botão do Fonts Ninja.
+
+---
+
+Como usar fontes do Google Fonts?
+Para isso, usaremos um serviço gratuito chamado Google Fonts, disponível em
+
+https://fonts.google.com.
+
+************************************************************************************************
+
+SE LIGA NA REGRA: Em um mesmo documento HTML, só podemos
+usar um id para um único elemento, o que significa que não podemos
+ter dois elementos com um mesmo id dentro de uma mesma página.
+Porém, podemos atribuir um mesmo class para vários elementos que
+possuam essa mesma característica.
+
+---
+
+MAIS UMA REGRA: Todo id em HTML é identificado nas CSS por
+um símbolo #. Toda class em HTML é identificada nas CSS por um
+ponto.
+
+---
+
+MAIS UM SÍMBOLO: Toda vez que usamos o símbolo > em um
+seletor, indicamos os filhos (children) imediatos de um elemento. No
+exemplo HTML que criamos, dizemos que o primeiro parágrafo é direct
+children da div.
+
+************************************************************************************************
+
+TAMANHO TOTAL: Para calcular a largura e altura total de um
+elemento na tela, some os tamanhos do conteúdo +
+preenchimento + borda + margem. O contorno não vai entrar nessa
+conta, pois utiliza parte da medida da margem.
+
+---
+
+NOVIDADE DAS CSS3: Existe a nova propriedade box-sizing
+onde podemos definir que as dimensões height e width não são
+medidas apenas a partir do conteúdo (content-box) e sim pela borda
+(border-box).
+
+---
+
+QUER SABER MAIS SOBRE A TRETA? Não vou usar espaço desse
+material para contar a treta entre Linux Torvalds e Larry McVoy,
+mas já contei essa história no YouTube. Se você ficou curioso(a) para
+saber o que rolou, acesse o link a seguir:
+
+Curso de Git e GitHub: https://youtu.be/CJtrNuTTs4QMUITO CUIDADO! Não exagere no uso de sombras, pois elas
+
+---
+
+
+podem tornar o seu efeito visual muito pesado. Evite também usar
+sombras coloridas. Olhe ao seu redor e perceba que as sombras são
+sempre pretas. Use cores rgba() para obter uma transparência que cause
+efeitos mais suaves.
+
+---
+
+CRIE SEUS WIREFRAMES: Existe uma ferramenta muito legal para
+planejar seus layouts, tanto para sites quanto para aplicativos
+desktop e até apps de celular: o MockFlow. Como podemos imaginar,
+existem limitações na versão free, mas dá pra imaginar como o site vai
+ficar antes de começar a mexer no código.
+
+---
+
+IMPORTANTE: As variáveis personalizadas em CSS devem ter seus
+nomes iniciando com dois traços obrigatoriamente.
+
+---
+
+ATÉ DÁ, MAS… Existe um recurso do Google Drive para a
+hospedagem de sites, mas nada muito simples e intuitivo. A melhor
+maneira é sempre usar serviços especializados em hospedagem de sites.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmilioVieira@jwpub.org
+
+
+Emilio9519
+Ricardo Diogo
+António Sales
